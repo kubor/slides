@@ -1,6 +1,9 @@
 # kubor/slides
 Presentation slides
 
+## IPAB2017 CADD contest
+
+[IPAB CADD contest 2017 KUF // Speaker Deck](https://speakerdeck.com/kubor/ipab-cadd-contest-2017-kuf)
 
 ## chemo_wakate_6
 
